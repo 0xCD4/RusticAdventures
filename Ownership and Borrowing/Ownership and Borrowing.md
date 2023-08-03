@@ -14,6 +14,7 @@ fn main() {
 }
 ```
 
+
 **Explanation:**
 
 1. A new `String` gem is created using the spell `String::from("Alice")`.
