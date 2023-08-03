@@ -16,6 +16,7 @@ Once the download is complete, run the installer and follow the on-screen instru
 
 If you don't have Homebrew installed, you can install it by running the following command in your terminal:
 
+
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
